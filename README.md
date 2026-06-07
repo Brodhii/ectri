@@ -11,10 +11,10 @@ ECCChat adalah aplikasi pesan instan yang mengutamakan keamanan dan privasi meng
 
 ## 📦 Download & Release
 
-### [v1.0.0 - Initial Secure Release](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest) `Latest`
+### [v1.0.0 - Initial Secure Release](https://github.com/Brodhii/ectri/releases/latest) `Latest`
 
 <p align="center">
-  <a href="apk/Ectri.apk?raw=true">
+  <a href="https://github.com/Brodhii/ectri/raw/main/apk/Ectri.apk">
     <img src="https://img.shields.io/badge/Download-Ectri%20APK%20(21.1%20MB)-2E7D32?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
   <br>
@@ -29,7 +29,7 @@ ECCChat adalah aplikasi pesan instan yang mengutamakan keamanan dan privasi meng
 #### 📂 Assets
 | Name | Size | Download |
 | :--- | :--- | :--- |
-| 📱 **Ectri_v1.0.0.apk** | 21.1 MB | [**Download APK**](apk/Ectri.apk?raw=true) |
+| 📱 **Ectri_v1.0.0.apk** | 21.1 MB | [**Download APK**](https://github.com/Brodhii/ectri/raw/main/apk/Ectri.apk) |
 | 📄 Source code (zip) | - | [Download ZIP](../../archive/main.zip) |
 | 📄 Source code (tar.gz) | - | [Download TAR](../../archive/main.tar.gz) |
 
