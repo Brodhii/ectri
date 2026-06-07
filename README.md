@@ -1,6 +1,6 @@
-# ECCChat - Secure Messaging App
+# Ectri - Secure Messaging App
 
-ECCChat adalah aplikasi pesan instan yang mengutamakan keamanan dan privasi menggunakan algoritma **Elliptic Curve Cryptography (ECC)** untuk enkripsi **End-to-End (E2EE)**.
+Ectri adalah aplikasi pesan instan yang mengutamakan keamanan dan privasi menggunakan algoritma **Elliptic Curve Cryptography (ECC)** untuk enkripsi **End-to-End (E2EE)**.
 
 ## 🚀 Fitur Utama
 - **True End-to-End Encryption**: Kunci privat disimpan secara lokal di perangkat pengguna.
